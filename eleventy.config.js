@@ -27,7 +27,7 @@ export default function(eleventyConfig) {
     htmlTemplateEngine: "liquid",
     markdownTemplateEngine: "liquid",
     dataTemplateEngine: "liquid",
-	pathPrefix: "/Wynast/"
+	pathPrefix: "/"
 	
 };
 };
