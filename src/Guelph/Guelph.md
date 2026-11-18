@@ -4,6 +4,7 @@ What is the University of Guelph doing, and how does it compare to other peer in
 
 TOC:
 [What is Guelph doing?](WhatGuelph.md)
+
 [Other Institutions and Guelph](GuelphOthers.md)
 
 Recommended Next: [What is Guelph doing?](WhatGuelph.md)

@@ -9,4 +9,5 @@ Codes and Standards
 
 Pages
 [University of Guelph Accessibility Plans 
-](https://www.uoguelph.ca/diversity-human-rights/accessibility-resources/university-guelph-accessibility-plans)[Statement of Commitment to Accessibility](https://www.uoguelph.ca/diversity-human-rights/accessibility-u-g)
+](https://www.uoguelph.ca/diversity-human-rights/accessibility-resources/university-guelph-accessibility-plans)
+[Statement of Commitment to Accessibility](https://www.uoguelph.ca/diversity-human-rights/accessibility-u-g)

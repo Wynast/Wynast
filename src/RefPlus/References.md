@@ -1,6 +1,8 @@
 [Home](../index.md)
+
 Further Reading: [Here](FurtherReading.md) 
-Works Cited
+
+## Works Cited
 
 “Accessibility at the U of G | Diversity and Human Rights (DHR).” Accessed November 17, 2026. https\://www\.uoguelph.ca/diversity-human-rights/accessibility-u-g.
 
