@@ -6,6 +6,7 @@
 
 
 ![MCF.png](./MCF.png)
+https://www.pr.uoguelph.ca/main-campus-facility-service-disruption-and-shutdown-notifications
 
 Next: [Conclusion](Conclusion.md)
 ***
