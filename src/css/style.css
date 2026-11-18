@@ -16,12 +16,14 @@ p {
 
 body {
   font-family: Georgia, Gelasio, Baskerville, serif;
+  background-color: #f4ecd8;
 }
 
 h1, h2, h3, h4, h5, h6 {
   text-align: left;
   padding-left: 10%;
   font-family: Georgia, Gelasio, Baskerville, serif;
+  padding-bottom: 16px;
 }
 
 hr {

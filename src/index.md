@@ -1,9 +1,7 @@
 
 ## Accessibility
 
-The accessibility of bathroom/washroom facilities depends on numerous factors.
-
-The accessibility of the bathroom itself, their availability, the way to get there, and more. To examine the accessibility of a bathroom, one thus must ascertain these components of accessibility. 
+                The accessibility of bathroom/washroom facilities depends on numerous factors. To examine the accessibility of a bathroom, one thus must ascertain these components of accessibility. 
 
 [START](Accessibility/Accessibility.md)
 

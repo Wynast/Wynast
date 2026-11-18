@@ -12,7 +12,8 @@ Back to [Guelph](Guelph.md)
 
 https://carleton.ca/campus-map/
 ### TMU
-The Toronto Metropolitan University maintains a list of single occupancy washrooms by building, including room number, floor, and a description of their accessibility features. This is great as it allows students, faculty, and broader members of the community to locate where the bathrooms they need are.[\[3\]](#_ftn3) This furthermore serves as an example of universal design, with accessibility features aiding all while taking every user into consideration; for instance, a fully abled person may still need a baby change table, and this would help them to locate one.[\[4\]](#_ftn4)
+
+                The Toronto Metropolitan University maintains a list of single occupancy washrooms by building, including room number, floor, and a description of their accessibility features. This is great as it allows students, faculty, and broader members of the community to locate where the bathrooms they need are.[\[3\]](#_ftn3) This furthermore serves as an example of universal design, with accessibility features aiding all while taking every user into consideration; for instance, a fully abled person may still need a baby change table, and this would help them to locate one.[\[4\]](#_ftn4)
 
 ![9495605b2ae548142aa848f3ba5823a4.png](./9495605b2ae548142aa848f3ba5823a4.png "9495605b2ae548142aa848f3ba5823a4.png")
 ![9495605b2ae548142aa848f3ba5823a4.png](./9495605b2ae548142aa848f3ba5823a4.png)
