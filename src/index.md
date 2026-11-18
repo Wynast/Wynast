@@ -11,4 +11,5 @@ TOC:
 
 1. [Accessibility](Accessibility/Accessibility.md)
 2. [Guelph](Guelph/Guelph.md)
-3. Conclusion
+3. [Conclusion](Conclusion/WhatBetter.md)
+4. [References and Further Reading ](RefPlus/References.md)

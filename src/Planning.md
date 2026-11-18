@@ -17,14 +17,15 @@ Sections:
     4. Conclusion
         1. What can Guelph do better?
         2. Conclusion
+    5. 
  ---------
 Index
 
 1. home (Index) -
-2. Accessibility
-    1. Accessibility
-    2. Availability
-    3. Design
+2. Accessibility -
+    1. Accessibility - 
+    2. Availability -
+    3. Design -
 3. Guelph and Others (guelph)
     1. What is Guelph Doing?
     2. Others and Guelph
