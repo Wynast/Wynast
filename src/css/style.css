@@ -2,4 +2,39 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  
+}
+
+p {
+  max-width: 125ch; 
+  padding-inline: 1rem; 
+  text-align: left;
+  padding-left: 10%;
+  font-family: Georgia, Gelasio, Baskerville, serif;
+}
+
+
+body {
+  font-family: Georgia, Gelasio, Baskerville, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+  padding-left: 10%;
+  font-family: Georgia, Gelasio, Baskerville, serif;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.box {
+  padding-top: 50px;
+}
+ul {
+  margin-left: 25%; /* Adjust this percentage to control how far toward the center it moves */
+}
+li {
+  margin-left: 13%; /* Adjust this percentage to control how far toward the center it moves */
 }
